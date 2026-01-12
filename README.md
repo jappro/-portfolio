@@ -11,15 +11,21 @@
 <header class="hero">
   <h1>Uche Japheth</h1>
   <p>
-  <h2>I AM Japheth |</h2>
-  <h2>A Web3 On-Chain Vissionary, Project Analyst, Community Manager, Growth Strategist & Marketing Manager</h2>
+  <h2>Japheth</h2>
+<p><strong>Web3 On-Chain Visionary • Project Analyst • Community & Growth Strategist</strong></p>
+<p>
+Analyzing on-chain systems, shaping clear narratives, and helping Web3 projects grow through insight-driven strategy and community alignment.
+</p>
+
 </header>
 
 <section>
-  <h3>About Me</h3>
-  <p>
-    I am an On-chain researcher Transforming AI, DeFi, and GameFi data into actionable insights. A Growth Strategist Scaling Marketing Concepts through hands-on experienced Community building and Moderation.
-  </p>
+<h2>About Me</h2>
+I am <strong>Uche Japheth</strong>, an on-chain researcher focused on transforming data across **AI, DeFi, and GameFi** into clear, actionable insights. My work centers on understanding how decentralized systems function at a fundamental level—how value flows, how incentives shape behavior, and how narratives align (or fail) with real utility.
+As a **Growth Strategist**, I scale marketing concepts through hands-on community building, moderation, and ecosystem engagement. Rather than relying on surface-level promotion, I focus on sustainable growth driven by clarity, trust, and long-term participations
+I am a **Web3 Community Manager and Growth Strategist** with practical experience building, moderating, and scaling online communities across **Web3, AI, and gaming ecosystems**. My approach emphasizes structure, accountability, and alignment between community goals and project vision—ensuring engagement translates into real value for both users and teams.
+Beyond Web3, I am a **Petroleum Engineering student** and a **Procurement Practitioner at Racine Technologies Limited**. This background has strengthened my understanding of structured operations, compliance, accountability, and real-world business processes. I apply these principles directly to community management, partnerships, and campaign execution, bridging decentralized innovation with professional operational discipline.
+By combining decentralized community building with real-world professional standards, I help projects grow **authentically, sustainably, and with long-term vision**—not just attention, but credibility and trust.
   <img src="real-photo.png" alt="Uche Japheth" style="width:180px;border-radius:12px;margin:20px 0;">
 </section>
 
@@ -34,7 +40,7 @@
 </section>
 
 <section>
-  <h3>Experience</h3>
+  <h2>Experience</h2>
   <p>Pecunity (formerly OctoDeFi) — Community Moderator (Current)</p>
   <p>Cyber Boxing League — Community Moderator</p>
   <p>BIGA ARCADE — OG Community Contributor</p>
