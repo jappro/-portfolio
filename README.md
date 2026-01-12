@@ -20,6 +20,7 @@
   <p>
     I am an On-chain researcher Transforming AI, DeFi, and GameFi data into actionable insights. A Growth Strategist Scaling Marketing Concepts through hands-on experienced Community building and Moderation.
   </p>
+  <img src="real-photo.png" alt="Uche Japheth" style="width:180px;border-radius:12px;margin:20px 0;">
 </section>
 
 <section>
@@ -51,3 +52,4 @@
 
 </body>
 </html>
+[style.css](https://github.com/user-attachments/files/24568483/style.css)
