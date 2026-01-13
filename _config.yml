@@ -3,6 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: "Japheth's Portfolio"
 :logo
-description: >
-  Web3 community manager and growth strategist helping DeFi, AI, and GameFi projects grow through on-chain insight, structured engagement, and long-term community alignment.
-  theme: minimal-mistakes-jekyll
+description: Web3 community manager and growth strategist helping DeFi, AI, and GameFi projects grow through on-chain insight, structured engagement, and long-term community alignment.
