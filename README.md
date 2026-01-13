@@ -8,7 +8,7 @@
 
 <header class="hero">
   <h1>This is Japheth |</h1>
-<strong><h3>A Web3 On-Chain Visionary • Project Analyst • Community & Growth Strategist</strong></h3>
+<h3>A Web3 On-Chain Visionary • Project Analyst • Community & Growth Strategist</h3>
 <p><strong><em>Analyzing on-chain systems, shaping clear narratives, and helping Web3 projects grow through insight-driven strategy and community alignment.</strong></em></p>
 </p>
 
