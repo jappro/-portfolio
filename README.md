@@ -6,15 +6,12 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-
 <header class="hero">
   <h1>This is Japheth |</h1>
 <h3>A Web3 On-Chain Visionary • Project Analyst • Community & Growth Strategist.</h3>
 <p><strong><em>Analyzing on-chain systems, shaping clear narratives, and helping Web3 projects grow through insight-driven strategy and community alignment.</strong></em></p>
 </p>
-
 </header>
-
 <section>
 <h2>About Me</h2>
 <p>I am <strong>Uche Japheth</strong>, an on-chain researcher focused on transforming data across <strong>AI, DeFi, and GameFi</strong> into clear, actionable insights. My work centers on understanding how decentralized systems function at a fundamental level how value flows, how incentives shape behavior, and how narratives align (or fail) with real utility.</p>
