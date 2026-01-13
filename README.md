@@ -5,13 +5,15 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <img src="https://github.com/user-attachments/assets/1aef9d46-8a87-4e82-b6c7-5ecf11d0ca60alt" alt="profile" class="circle-img>
 
 <header class="hero">
   <h1>Japheth's Portfolio</h1>
   <p>
+    
   <h2>This is Japheth |</h2>
 <strong>A Web3 On-Chain Visionary • Project Analyst • Community & Growth Strategist</strong>
-<em>Analyzing on-chain systems, shaping clear narratives, and helping Web3 projects grow through insight-driven strategy and community alignment.</em>
+<p><em>Analyzing on-chain systems, shaping clear narratives, and helping Web3 projects grow through insight-driven strategy and community alignment.</em></p>
 </p>
 
 </header>
