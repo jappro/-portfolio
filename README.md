@@ -145,13 +145,136 @@ By combining decentralized community building with real-world professional stand
 
 </section>
 </body>
-</section>
 
 <section>
-  <h2>Experience</h2>
-  <p>Pecunity (formerly OctoDeFi) — Community Moderator (Current)</p>
-  <p>Cyber Boxing League — Community Moderator</p>
-  <p>BIGA ARCADE — OG Community Contributor</p>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Experience & Projects</title>
+<style>
+  body {
+    font-family: Inter, Arial, sans-serif;
+    background-color: #ffffff;
+    color: #1a1a1a;
+    line-height: 1.7;
+  }
+
+  .xp-projects {
+    max-width: 900px;
+    margin: 80px auto;
+    padding: 0 20px;
+  }
+
+  .xp-projects h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+    border-bottom: 2px solid #e5e5e5;
+    padding-bottom: 10px;
+  }
+
+  .section-block {
+    margin-bottom: 60px;
+  }
+
+  .section-block h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #111;
+  }
+
+  .section-block p {
+    margin-bottom: 15px;
+    color: #333;
+  }
+
+  .experience-list {
+    margin: 20px 0;
+    padding-left: 20px;
+  }
+
+  .experience-list li {
+    margin-bottom: 10px;
+    color: #444;
+  }
+
+  .project-card {
+    border: 1px solid #e5e5e5;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+
+  .project-card strong {
+    font-size: 18px;
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  .project-card a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+
+  .project-card a:hover {
+    text-decoration: underline;
+  }
+</style>
+</head>
+
+<body>
+
+<section class="xp-projects">
+  <h2>Experience & Projects</h2>
+
+  <!-- EXPERIENCE SECTION -->
+  <div class="section-block">
+    <h3>Experience</h3>
+    <p>
+      I have hands-on experience supporting, moderating, and scaling Web3 communities across DeFi, GameFi, AI, and emerging on-chain ecosystems. My work focuses on maintaining engagement quality, aligning community activity with project goals, and supporting campaigns that drive real participation rather than surface-level metrics.
+    </p>
+
+   <ul class="experience-list">
+      <li><strong>Pecunity (formerly OctoDeFi)</strong> — Community Moderator (Current)</li>
+      <li><strong>Cyber Boxing League (CBL)</strong> — Community Moderator (Gaming)</li>
+      <li><strong>BIGA ARCADE</strong> — BIGA MASTER & Community Builder (Gaming) </li>
+      <li><strong>Remoi AI</strong> — Community Engagement & Moderation Support</li>
+      <li><strong>Star System Labs</strong> — Campaign Manager & Community Engagement</li>
+    </ul>
+
+   <p>
+    I have also managed and supported multiple Web3 campaigns through Zealy and community-led initiatives between 2023–2026, contributing to onboarding, engagement loops, and campaign execution.
+    </p>
+  <p>
+      My experience spans gaming, DeFi, AI, and early-stage Web3 ecosystems, with a strong focus on engagement quality, community structure, and sustainable growth.
+    </p>
+  </div>
+
+  <!-- PROJECTS SECTION -->
+  <div class="section-block">
+    <h3>Projects</h3>
+    <p>
+      I currently collaborate with and contribute to a select number of projects I believe in, focusing on long-term alignment and authentic community engagement.
+    </p>
+  <div class="project-card">
+      <strong>🔹 Pecunity</strong>
+      Role: Community Moderator<br>
+      X: <a href="https://t.co/dRCeBIHf4q" target="_blank">https://t.co/dRCeBIHf4q</a>
+    </div>
+  <div class="project-card">
+      <strong>🔹 Perspective AI</strong>
+      Role: Ambassador<br>
+      X: <a href="https://t.co/1KM0DYDpdZ" target="_blank">https://t.co/1KM0DYDpdZ</a>
+    </div>
+   <p>
+      <strong><em>I actively collaborate with and promote projects I believe in, while remaining open to new partnerships and campaign opportunities.</em></strong>
+    </p>
+  </div>
+
+</section>
+
+</body>
+</html>
+
 </section>
 
 <section>
