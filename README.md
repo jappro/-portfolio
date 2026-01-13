@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -272,7 +271,6 @@ By combining decentralized community building with real-world professional stand
 
 </section>
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -398,5 +396,3 @@ By combining decentralized community building with real-world professional stand
 
 </body>
 </html>
-
-[style.css](https://github.com/user-attachments/files/24568483/style.css)
