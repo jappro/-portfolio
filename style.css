@@ -155,3 +155,61 @@ footer { margin-top: 40px; padding: 32px 20px; text-align: center; border-top: 1
   h1 { font-size: 1.8rem; }
   .circle-img { width:120px; height:120px; }
 }
+
+/* =========================
+   HERO ICONS & ACCESSIBILITY PATCH
+   (Paste this at the very end of style.css)
+========================= */
+
+/* Accessibility helper - visually hide text but keep for screen readers */
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* Ensure hero contact icons are inline and spaced */
+.hero-quick-contact {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap; /* allows wrapping safely on small screens */
+  margin-top: 16px;
+  z-index: 10;
+}
+
+/* Make icon buttons consistent size and center the svgs */
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  background: rgba(255,255,255,0.02);
+  color: inherit;
+  text-decoration: none;
+  transition: transform .12s ease, background .12s ease;
+}
+
+/* Smaller svg inside the icon to avoid overflow and text collisions */
+.icon-btn svg {
+  width: 18px;
+  height: 18px;
+  display: block;
+}
+
+/* Ensure the sr-only text stays readable for screen readers but not visible */
+.icon-btn .sr-only { display: inline-block; }
+
+/* On very small screens reduce icon size */
+@media (max-width: 420px) {
+  .icon-btn { width: 40px; height: 40px; }
+  .icon-btn svg { width: 16px; height: 16px; }
+}
